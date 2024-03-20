@@ -65,7 +65,7 @@ Use the `disabled` prop on the Accordion component to disable interaction and fo
 
 The Accordion component can be controlled or uncontrolled.
 
-{{"demo": "ControlledAccordions.js", "bg": true}}
+{{"demo": "ControlledAccordions.js", "bg": false}}
 
 :::info
 
